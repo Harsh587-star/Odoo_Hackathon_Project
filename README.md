@@ -1,1 +1,2 @@
-# Odoo_Hackathon_Project
+# Basin Bucket
+Holds user-uploaded files.
