@@ -1,2 +1,2 @@
-# Basin Bucket
-Holds user-uploaded files.
+# Archive Vault
+This folder stores exported data logs.
